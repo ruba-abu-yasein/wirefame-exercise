@@ -45,16 +45,17 @@ nav {
   margin-right: 150px;
 }
 #lastLink:link {
-  background-color: white;
-  color: black;
+  background-color: rgb(2, 0, 0);
   text-decoration: none;
   padding: 15px;
 }
 #lastLink:hover {
-  color: white;
-  background-color: black;
+  background-color: rgb(141, 9, 9);
   text-decoration: none;
   padding: 15px;
+}
+#lastLink {
+  color: white;
 }
 footer {
   padding: 60px;
